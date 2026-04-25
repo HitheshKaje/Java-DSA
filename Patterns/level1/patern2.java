@@ -4,9 +4,9 @@ public class patern2 {
         int n=5;
         for(i=1;i<=n;i++){
             for(j=1;j<=i;j++){
-                System.err.print(j+ " ");
+                System.out.print(j+ " ");
             }
-            System.err.println( "");
+            System.out.println( "");
         }
     }
     
