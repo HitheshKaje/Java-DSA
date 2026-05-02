@@ -11,6 +11,6 @@ public class Swap {
         int temp=a;
         a=b;
         b=temp;
-        return
+        return 0;
     }
 }
