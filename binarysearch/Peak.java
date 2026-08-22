@@ -14,6 +14,6 @@ public class Peak {
                     high=mid;
             }
 
-        } return mid+1;
+        } return low;
     }
     }
