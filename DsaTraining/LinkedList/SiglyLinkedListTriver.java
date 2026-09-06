@@ -5,14 +5,26 @@ public class SiglyLinkedListTriver {
         s.addList(20);
         s.addList(30);
         s.addList(40);
-        s.addList(50);
-        s.addList(60);
-        s.addList(70);
-        s.addF(50);
-        s.removeF();
-        s.removeF();
-
+        s.addList(30);
+        s.addList(20);
+        s.addList(10);
+//        s.addF(50);
+//        s.removeF();
+//        s.removeF();
+//        s.Size();
         System.out.println(s);
+//        s.Average();
+//        s.Maximum();
+//        s.Remove();
+//        s.printReverse();
+//        s.Reverses();
+//        s.Middle();
+//        s.Palimdrome();
+        s.PositionAdd(3,01);
+//        System.out.println(s);
+//        s.getElement(0);
+        System.out.println(s);
+
     }
 
 

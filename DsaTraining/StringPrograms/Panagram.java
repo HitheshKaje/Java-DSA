@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Panagram {
+public class
+Panagram {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Sentence");
